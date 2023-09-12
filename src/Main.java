@@ -23,5 +23,10 @@ public class Main {
         System.out.println();
         book2.setYear(1845);
         System.out.println(book2.getYear());
+
+        System.out.println(name1);
+        System.out.println(book1);
+        System.out.println(name2);
+        System.out.println(book2);
     }
 }
